@@ -1,4 +1,4 @@
-# Python2-Assignment-01
+# Assesment 1
 Basic Math Operations
 Write a program that:
 1.	Takes two numbers from the user
